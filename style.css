@@ -241,8 +241,7 @@ body{
     height: 80vh; /* This ensures the container takes up the full height of the viewport */
     display: flex;
     flex-direction: column;
-    background-color: black;
-    color: white;
+   
     margin-top: 20%;
     margin-bottom: 20%;
     margin-left: 20%;
